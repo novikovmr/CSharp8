@@ -1,0 +1,15 @@
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.csproj.AssemblyReference.cache
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.AssemblyInfoInputs.cache
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.AssemblyInfo.cs
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.csproj.CoreCompileInputs.cache
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\bin\Debug\net7.0\Dz3.exe
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\bin\Debug\net7.0\Dz3.deps.json
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\bin\Debug\net7.0\Dz3.runtimeconfig.json
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\bin\Debug\net7.0\Dz3.dll
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\bin\Debug\net7.0\Dz3.pdb
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.dll
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\refint\Dz3.dll
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.pdb
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\Dz3.genruntimeconfig.cache
+C:\Users\Max\Desktop\Обучение\C#\S8\Dz3\obj\Debug\net7.0\ref\Dz3.dll

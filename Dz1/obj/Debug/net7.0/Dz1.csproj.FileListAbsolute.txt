@@ -1,0 +1,15 @@
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.csproj.AssemblyReference.cache
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.AssemblyInfoInputs.cache
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.AssemblyInfo.cs
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.csproj.CoreCompileInputs.cache
+C:\Users\maksi\Desktop\S8\Dz1\bin\Debug\net7.0\Dz1.exe
+C:\Users\maksi\Desktop\S8\Dz1\bin\Debug\net7.0\Dz1.deps.json
+C:\Users\maksi\Desktop\S8\Dz1\bin\Debug\net7.0\Dz1.runtimeconfig.json
+C:\Users\maksi\Desktop\S8\Dz1\bin\Debug\net7.0\Dz1.dll
+C:\Users\maksi\Desktop\S8\Dz1\bin\Debug\net7.0\Dz1.pdb
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.dll
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\refint\Dz1.dll
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.pdb
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\Dz1.genruntimeconfig.cache
+C:\Users\maksi\Desktop\S8\Dz1\obj\Debug\net7.0\ref\Dz1.dll
